@@ -88,8 +88,8 @@ Content-Type: application/json
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/aadarshKsingh/CapXBackend.git
-   cd CapXBackend
+   git clone https://github.com/aadarshKsingh/capx_backend.git
+   cd capx_backend
    ```
 
 2. **Set up the MySQL database**:
